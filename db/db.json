@@ -3,13 +3,13 @@
     {
       "id": "1",
       "name": "Stormtrooper",
-      "price": 100,
+      "price": 60.00,
       "img": "../img/producto-1.png"
     },
     {
       "id": "2",
       "name": "Game Boy Classic",
-      "price": 100,
+      "price": 60.00,
       "img": "../img/producto-2.png"
     }
   ]
